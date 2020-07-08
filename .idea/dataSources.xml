@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" multifile-model="true">
+    <data-source source="LOCAL" name="MySQL - ssmbuild@localhost" uuid="825ed921-8430-4629-9699-a76b32db2921">
+      <driver-ref>mysql.8</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mysql://localhost:3306/ssmbuild</jdbc-url>
+    </data-source>
+    <data-source source="LOCAL" name="@118.178.195.195" uuid="79638275-851b-4ed8-9afd-5f7179a80bc4">
+      <driver-ref>mysql.8</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mysql://118.178.195.195:3306</jdbc-url>
+    </data-source>
+  </component>
+</project>
